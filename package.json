@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xoxoworld/EST_fe_13_2st_project.git"
+    "url": "git+https://github.com/soho1109/EST_2st_project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/xoxoworld/EST_fe_13_2st_project/issues"
+    "url": "https://github.com/soho1109/EST_2st_project/issues"
   },
-  "homepage": "https://github.com/xoxoworld/EST_fe_13_2st_project#readme",
+  "homepage": "https://soho1109.github.io/EST_2st_project/",
   "devDependencies": {
     "eslint": "^10.5.0",
     "husky": "^9.1.7",
